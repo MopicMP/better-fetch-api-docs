@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/fetch.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/response-json.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/response-text.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/response-blob.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/response-arraybuffer.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/response-ok.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/response-status.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/response-headers.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/request.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/headers.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/abortcontroller.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/abortsignal.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-fetch-api-docs/formdata.html</loc><priority>0.8</priority></url>
+</urlset>
